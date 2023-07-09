@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/best_webseries/static/css/main.4d8628cd.css",
+    "main.js": "/best_webseries/static/js/main.c8f7ba3f.js",
+    "static/media/1152301.png": "/best_webseries/static/media/1152301.7b0b77979e47901e4289.png",
+    "index.html": "/best_webseries/index.html",
+    "main.4d8628cd.css.map": "/best_webseries/static/css/main.4d8628cd.css.map",
+    "main.c8f7ba3f.js.map": "/best_webseries/static/js/main.c8f7ba3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d8628cd.css",
+    "static/js/main.c8f7ba3f.js"
+  ]
+}
